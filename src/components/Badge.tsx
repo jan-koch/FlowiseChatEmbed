@@ -54,7 +54,7 @@ export const Badge = (props: Props) => {
     }}>Powered by
       <a
         ref={liteBadge}
-        href={'https://kobra-dataworks.de'}
+        href={'https://kobra-dataworks.de/?utm_campaign=powered-by&utm_source=chatembed'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
